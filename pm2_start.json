@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name"             : "Sample Oauth",
+      "cwd"              : "./",
+      "script"           : "app.js",
+      "exec_mode"        : "fork",
+      "exec_interpreter" : "node",
+      "autorestart"      : false
+    }
+  ]
+}
