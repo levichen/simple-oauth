@@ -15,5 +15,9 @@
 5. `$ Configure config/config.js`
 4. `$ pm2 pm2_start.json`
 
+## Database Schema
+
+The Schema in the models/user.js
+
 ## Time Spent
 * 4 hours
